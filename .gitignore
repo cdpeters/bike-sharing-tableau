@@ -1,3 +1,8 @@
+# Data files too large
+201908-citibike-tripdata.csv
+2019_august_citibike_tripdata.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
